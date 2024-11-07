@@ -128,7 +128,7 @@ Respuesta:
 
 #### FrontEnd
 
-[Acceder a la documentación del FrontEnd](https://github.com/AguzKind/ChallengeTDevs/tree/main/FrontEnd)
+[Acceder a la documentación del FrontEnd](https://github.com/AguzKind/ChallengeTDevs/tree/main/Frontend)
 
 #### Repositorio General
 
