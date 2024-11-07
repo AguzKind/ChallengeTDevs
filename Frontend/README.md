@@ -26,11 +26,10 @@ Como vemos, tanto el Front como el Back funcionan perfectamente. Obviamente hay 
 
 ## Documentación
 
-#### FrontEnd
-
-[Acceder a la documentación del FrontEnd](#)
-
 #### Backend
 
-[Acceder a la documentación del Backend](#)
+[Acceder a la documentación del Backend](https://github.com/AguzKind/ChallengeTDevs/tree/main/Backend)
 
+#### Repositorio General
+
+[Volver al inicio del Repo](https://github.com/AguzKind/ChallengeTDevs/tree/main)
